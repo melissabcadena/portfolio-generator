@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "generates portfolio for web developers",
+  "main": "app.js",
+  "scripts": {
+    "test": "generatePage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissabcadena/portfolio-generator.git"
+  },
+  "keywords": [
+    "generate-portfolio"
+  ],
+  "author": "melissabcadena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissabcadena/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/melissabcadena/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
